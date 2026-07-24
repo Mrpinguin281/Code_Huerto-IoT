@@ -1,7 +1,4 @@
-# Code_Huerto-IoT
-Código Arduino para Sistema IoT para monitoreo y automatización de huerto con ESP32
-
-# 🌱 Huerto IoT
+# 🌱 Codigo Arduino para Huerto Ibero
 
 Sistema inteligente de monitoreo y automatización de un huerto utilizando ESP32.
 

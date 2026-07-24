@@ -23,9 +23,3 @@ Sistema inteligente de monitoreo y automatización de un huerto utilizando ESP32
 ## Arquitectura
 
 ESP32 → API Flask → Dashboard
-
-## Código
-
-El código del microcontrolador se encuentra en:
-
-/ESP32/Huerto_IoT_Final.ino
